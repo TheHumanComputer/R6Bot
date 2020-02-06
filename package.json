@@ -1,0 +1,21 @@
+{
+  "name": "r6bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for the RFG Rainbow Six Siege Server",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "susps",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "gm": "^1.23.1",
+    "node-fetch": "^2.6.0",
+    "rainbowsix-siege-api": "^1.0.3",
+    "select-random-file": "^1.1.0",
+    "sequelize": "^5.21.3",
+    "sqlite3": "^4.1.1",
+  }
+}
